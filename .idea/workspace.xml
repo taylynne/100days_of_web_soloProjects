@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9798d81-438c-41e8-82cd-478a48139ceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2_HTML/google_circa_98.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2_HTML/google_circa_98.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch2_HTML/google_circa_98.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,9 @@
       <option name="presentableId" value="Default" />
       <updated>1626702338798</updated>
       <workItem from="1626702341628" duration="918000" />
-      <workItem from="1626704538718" duration="2849000" />
+      <workItem from="1626704538718" duration="4977000" />
+      <workItem from="1626832912418" duration="2399000" />
+      <workItem from="1626913494110" duration="1929000" />
     </task>
     <servers />
   </component>
